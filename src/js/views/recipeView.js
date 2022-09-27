@@ -1,4 +1,4 @@
-import View from './view.js';
+import View from './View.js';
 
 import icons from 'url:../../img/icons.svg';
 // No path needed when imported from npm (used: npm install fractional)

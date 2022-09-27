@@ -1,4 +1,4 @@
-import View from './view.js';
+import View from './View.js';
 import icons from 'url:../../img/icons.svg';
 
 // Generates markup for just one of these 'preview' elements (used in bookmarks and search results)
